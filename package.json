@@ -1,0 +1,36 @@
+{
+  "name": "react-nitro-snippets",
+  "displayName": "React Nitro Snippets",
+  "description": "Snippets to accelerate your React App Development",
+  "version": "1.0.0",
+  "publisher": "areai51",
+  "author": {
+    "name": "Vinci Rufus",
+    "email": "vinci.rufus@gmail.com"
+  },
+  "icon": "images/react-nitro-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xt/react-nitro-snippets.git"
+  },
+
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  },
+
+  "keywords": ["snippets", "react", "redux", "es6", "javascript"],
+  "engines": {
+    "vscode": "^0.10.5"
+  },
+  "categories": ["Snippets"],
+  "license": "MIT"
+}
