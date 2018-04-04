@@ -279,19 +279,19 @@
     "body": "const mapDispatchToProps = { ${1:Action} };$0"
   },
   "Import React": {
-    "prefix": "imr",
+    "prefix": "rn-imr",
     "body": ["import React from 'react';"],
     "description": "Import React"
   },
 
   "Import React, { Component }": {
-    "prefix": "imrc",
+    "prefix": "rn-imrc",
     "body": ["import React, { Component } from 'react';"],
     "description": "Import React, { Component }"
   },
 
   "Import PropTypes": {
-    "prefix": "impt",
+    "prefix": "rn-impt",
     "body": ["import PropTypes from 'prop-types';"],
     "description": "Import PropTypes"
   },

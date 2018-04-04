@@ -13,6 +13,9 @@ Snippet commands are intentionally long to reduce cognitive overload. VS Code do
 | Commands                                                   |
 | :--------------------------------------------------------- |
 | `rn-stateless-functional-component`                        |
+| `rn-imr` `// import React from 'react';`                   |
+| `rn-imrc` `// import React, { Component } from 'react';`   |
+| `rn-impt` `// import PropTypes from 'prop-types';`         |
 | `rn-pure-component`                                        |
 | `rn-higher-order-component`                                |
 | `rn-class-component`                                       |
