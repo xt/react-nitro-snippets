@@ -1,6 +1,10 @@
 # React Nitro Snippets
 
-Snippets to improve productivity when building React Apps.
+Code Snippets for pretty much every piece of code you'd need to write in React.
+
+Start by typing `rn-` to get a list of all the code snippets.
+
+![rn snippets](https://firebasestorage.googleapis.com/v0/b/rn-assets.appspot.com/o/rn-snippets.gif?alt=media&token=89b7f953-496d-44f2-8238-2089591b978e)
 
 Snippet commands are intentionally long to reduce cognitive overload. VS Code does a great job autocompleting them for you.
 
