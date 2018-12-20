@@ -120,7 +120,7 @@
       "import PropTypes from \"prop-types\";",
       "",
       "const ${TM_FILENAME_BASE} = props => {",
-      "  render();",
+      "  return(<div />);",
       "};",
       "",
       "${TM_FILENAME_BASE}.propTypes = {};",
